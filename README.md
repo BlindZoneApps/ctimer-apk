@@ -1,7 +1,7 @@
 # CTimer: Timer & Stopwatch
 [![Downloads](https://img.shields.io/github/downloads/BlindZoneApps/ctimer-apk/total.svg?color=blue?style=flat)](https://BlindZoneApps/ctimer-apk/releases/latest) [![Version](https://img.shields.io/github/v/release/BlindZoneApps/ctimer-apk??color=bluelabel=version)](https://BlindZoneApps/ctimer-apk/releases)
 
-Simple timer & stopwatch fro Android.
+Simple timer & stopwatch for Android.
 
 Download ctimer apk
 
